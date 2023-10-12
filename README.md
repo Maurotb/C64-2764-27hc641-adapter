@@ -24,7 +24,7 @@ Change default programming voltage to 12.5 or you damage device!!! See photo of 
 
 In your eprom programmer, select 2732 generic eprom, make setting as "T48 Settings.png"
 
-Power on device, from 18 to 19V
+Power on device, from 18 to 19V (2x9v battery is good)
 
 In xgecu, load bin and click on write image , program your 27hc641, enjoy!
 
